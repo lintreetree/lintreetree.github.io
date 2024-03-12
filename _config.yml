@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: yilin.lintreetree@gmail.com
 description: "又菜又爱发疯的情绪极其不稳定的百变美少女胖林宝宝噜啦噜"
 keyword: "BY, BY Blog, iOS, Apple, iPhone"
-url: "http://lintreetree.github.io"          # your host, for absolute URL
+url: "https://lintreetree.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
