@@ -12,7 +12,7 @@ github_repo: "https://github.com/lintreetree/lintreetree.github.io" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "又菜又爱发疯的情绪极其不稳定的百变美少女胖林宝宝噜啦噜"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
